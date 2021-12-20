@@ -1,0 +1,10 @@
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\bin\Debug\Haraket ettirme.exe.config
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\bin\Debug\Haraket ettirme.exe
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\bin\Debug\Haraket ettirme.pdb
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket ettirme.csprojAssemblyReference.cache
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket_ettirme.Form1.resources
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket_ettirme.Properties.Resources.resources
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket ettirme.csproj.GenerateResource.cache
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket ettirme.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket ettirme.exe
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket ettirme.pdb

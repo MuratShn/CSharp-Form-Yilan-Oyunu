@@ -1,0 +1,15 @@
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\bin\Debug\Haraket ettirme.exe.config
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\bin\Debug\Haraket ettirme.exe
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\bin\Debug\Haraket ettirme.pdb
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket_ettirme.Properties.Resources.resources
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Yılan Oyunu.csproj.GenerateResource.cache
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Yılan Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket ettirme.exe
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket ettirme.pdb
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket_ettirme.OyunKısmı.resources
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket_ettirme.AnaMenü.resources
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Yılan Oyunu.csprojAssemblyReference.cache
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket_ettirme.Giris.resources
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket_ettirme.Kayıt.resources
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket_ettirme.SkorTablosu.resources
+C:\Users\murat\source\repos\YılanOyunu\Haraket ettirme\obj\Debug\Haraket_ettirme.sil.resources
