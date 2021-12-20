@@ -1,9 +1,0 @@
-C:\Users\murat\source\repos\YılanOyunu\KlavyeKontrol\bin\Debug\KlavyeKontrol.exe.config
-C:\Users\murat\source\repos\YılanOyunu\KlavyeKontrol\bin\Debug\KlavyeKontrol.exe
-C:\Users\murat\source\repos\YılanOyunu\KlavyeKontrol\bin\Debug\KlavyeKontrol.pdb
-C:\Users\murat\source\repos\YılanOyunu\KlavyeKontrol\obj\Debug\KlavyeKontrol.Form1.resources
-C:\Users\murat\source\repos\YılanOyunu\KlavyeKontrol\obj\Debug\KlavyeKontrol.Properties.Resources.resources
-C:\Users\murat\source\repos\YılanOyunu\KlavyeKontrol\obj\Debug\KlavyeKontrol.csproj.GenerateResource.cache
-C:\Users\murat\source\repos\YılanOyunu\KlavyeKontrol\obj\Debug\KlavyeKontrol.csproj.CoreCompileInputs.cache
-C:\Users\murat\source\repos\YılanOyunu\KlavyeKontrol\obj\Debug\KlavyeKontrol.exe
-C:\Users\murat\source\repos\YılanOyunu\KlavyeKontrol\obj\Debug\KlavyeKontrol.pdb
